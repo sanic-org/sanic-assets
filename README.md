@@ -25,3 +25,7 @@
 `https://raw.githubusercontent.com/huge-success/sanic-assets/master/png/sanic-framework-logo-simple-400x97.png`
 
 ### Simple (for dark backgrounds)
+
+![](/png/sanic-framework-logo-simple-white-400x97.png)
+
+`https://raw.githubusercontent.com/huge-success/sanic-assets/master/png/sanic-framework-logo-simple-white-400x97.png`
