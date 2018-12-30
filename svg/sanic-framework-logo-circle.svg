@@ -16,9 +16,9 @@
    id="svg911"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="sanic-framework-logo-circle.svg"
-   inkscape:export-filename="/home/adam/Projects/sanic/assets/final/sanic-framework-logo-circle-512x512.png"
-   inkscape:export-xdpi="126.59"
-   inkscape:export-ydpi="126.59">
+   inkscape:export-filename="/home/adam/Projects/sanic/assets/final/sanic-framework-logo-circle-128x128.png"
+   inkscape:export-xdpi="31.65"
+   inkscape:export-ydpi="31.65">
   <defs
      id="defs905" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8275081"
-     inkscape:cx="185.36278"
+     inkscape:cx="81.669669"
      inkscape:cy="175.33542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -38,10 +38,10 @@
      fit-margin-left="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1353"
-     inkscape:window-x="3000"
-     inkscape:window-y="281"
+     inkscape:window-width="1080"
+     inkscape:window-height="1886"
+     inkscape:window-x="5560"
+     inkscape:window-y="117"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata908">
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
